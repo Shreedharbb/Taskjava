@@ -8,6 +8,6 @@ public  class fact
         {
             fact=fact*i;
         }
-        System.out.println("factorial "+num+ "i s "+fact);
+        System.out.println("factorial "+num+ "is "+fact);
     }
 }
